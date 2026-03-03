@@ -1,4 +1,4 @@
-# Olá, eu sou o Celso! 👋
+# Olá, eu sou o Celso! 
 
 ### Estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
 
@@ -6,22 +6,22 @@ Sou apaixonado por tecnologia e estou sempre em busca de me desenvolver cada vez
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 Aqui estão as tecnologias com as quais já trabalhei e venho aprimorando:
 
-### 🌐 Frontend & Mobile
+### Frontend & Mobile
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### ⚙️ Backend & Comunicação
+### Backend & Comunicação
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP%20Requests-005C84?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
