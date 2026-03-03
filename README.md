@@ -17,11 +17,14 @@ Sou apaixonado por tecnologia e estou sempre em busca de me desenvolver cada vez
 ### Backend 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTTP](https://img.shields.io/badge/HTTP%20Requests-005C84?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED272A?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-000000?style=for-the-badge&logo=httpie&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 
 ### Banco de Dados
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
 
