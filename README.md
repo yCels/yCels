@@ -17,7 +17,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de me desenvolver cada vez
 ### Backend 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTTP](https://img.shields.io/badge/HTTP%20Requests-005C84?style=for-the-badge&logo=internet-explorer&logoColor=white)
 
 ### Banco de Dados
