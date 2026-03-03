@@ -2,20 +2,19 @@
 
 ### Estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
 
-Sou apaixonado por tecnologia e estou sempre em busca de me desenvolver cada vez mais na área de software. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos, onde exploro meu grande interesse por arquitetura de software e novas tecnologias. No momento, estou focado em aprofundar meus conhecimentos em ecossistemas Full Stack, buscando constantemente superar novos desafios a cada projeto e evoluir minha base técnica para construir soluções eficientes.
+Sou apaixonado por tecnologia e estou sempre em busca de me desenvolver cada vez mais na área de software. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos, onde exploro meu grande interesse por arquitetura de software e novas tecnologias. No momento, estou focado em aprofundar meus conhecimentos em ecossistemas Full Stack, buscando conhecimento constante
 
 ---
 
 ## Tecnologias e Ferramentas
 
-Aqui estão as tecnologias com as quais já trabalhei e venho aprimorando:
 
-### Frontend & Mobile
+### Frontend 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend & Comunicação
+### Backend 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -35,6 +34,6 @@ Aqui estão as tecnologias com as quais já trabalhei e venho aprimorando:
 
 ---
 
-## 📫 Como me encontrar
+##  Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/celso-moreira-freitas-957832222/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:celso5mf@gmail.com)
