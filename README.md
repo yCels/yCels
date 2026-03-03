@@ -1,8 +1,8 @@
-# Olá, eu sou o Celso! 
+# Olá, eu sou o Celso! 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas na FATEC São José dos Campos
+### Estudante de Análise e Desenvolvimento de Sistemas na  FATEC Prof. Jessen Vidal – São José dos Campos.
 
-Sou apaixonado por tecnologia e estou sempre em busca de me desenvolver cada vez mais na área de software. Atualmente, curso Análise e Desenvolvimento de Sistemas na FATEC de São José dos Campos, onde exploro meu grande interesse por arquitetura de software e novas tecnologias. No momento, estou focado em aprofundar meus conhecimentos em ecossistemas Full Stack, buscando conhecimento constante
+
 
 ---
 
